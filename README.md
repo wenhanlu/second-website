@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+###I'm learning how this works
 
-You can use the [editor on GitHub](https://github.com/wenhanlu/second-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[Click Me](https://na.op.gg/summoners/na/triggeruble)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image maybe?](https://res.cloudinary.com/teepublic/image/private/s--R9AAFce_--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,h_588/c_crop,g_north_west,h_588,w_441,x_-10,y_0/g_north_west,u_upload:v1446840633:production:blanks:i3xdd1bfkaazyzdztfvu,x_-419,y_-299/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1591629277/production/designs/11118949_0.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +22,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenhanlu/second-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+no go away
