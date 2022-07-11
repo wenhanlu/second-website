@@ -1,3 +1,19 @@
 theme: jekyll-theme-midnight
 title: Midnight Mk. II
 description: Hello, definitely more than second attempt
+
+<form
+  action="https://formspree.io/f/moqroyjb"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
